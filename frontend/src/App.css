@@ -1,0 +1,26 @@
+#app {
+  border-color: hsl(0, 0%, 66%);
+}
+
+#header {
+  /*max-height: 15vh;*/
+}
+
+.hero-body {
+  /*padding: 1rem 1rem;*/
+}
+
+#infinite/*-scroll {
+  overflow-y: scroll;
+  height: 80vh;
+  margin-bottom: 0;
+}*/
+
+.footer {
+  /*height: 5vh;*/
+  /*padding: 1rem 1.5rem 3rem;*/
+}
+
+.press-release-title {
+  /*max-width: 30rem;*/
+}

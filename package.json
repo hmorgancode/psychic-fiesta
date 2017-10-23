@@ -1,0 +1,9 @@
+{
+  "name": "psychic-fiesta",
+  "version": "1.0.0",
+  "description": "A heatmap viewer",
+  "main": "index.js",
+  "repository": "git@github.com:hmorgancode/psychic-fiesta.git",
+  "author": "Henry Morgan <hmorgan471@gmail.com>",
+  "license": "MIT"
+}
